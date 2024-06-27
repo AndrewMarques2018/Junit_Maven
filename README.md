@@ -27,8 +27,7 @@ Para executar os testes deste projeto, siga os passos abaixo:
 
 3. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/AndrewMarques2018/Junit_Maven.git
 
 4. **Execute os Testes**:
    ```bash
